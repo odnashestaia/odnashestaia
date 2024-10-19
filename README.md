@@ -38,6 +38,14 @@
 ### [Дипломная работа по теме "Сравнение различных подходов к реализации REST API: Django REST Framework, FastAPI и Flask-RESTful"](https://github.com/odnashestaia/diplom)
 Этот проект демонстрирует три подхода к созданию REST API с использованием **Django REST Framework**, **FastAPI** и **Flask-RESTful**. Пример включает базовые CRUD операции для сущности `Item`, а также сравнение этих фреймворков по производительности, гибкости и простоте использования.
 
+### [Безопасный путь: портал обучения борьбе с мошенничеством](https://github.com/odnashestaia/hacaton_dev)
+Проект созданый для соревнование Hacaton представляет из себя обучающий портал как опознать мошенника и как не вестись на их схемы
+
+[Хулисайт](https://github.com/odnashestaia/hulisite)
+Сайт разработанный как электронный блокнот [Хулиндарь](https://www.chitai-gorod.ru/product/hulendar-provokator-velikih-sversheniy-2921315) и претавляет из себя записную книшку как TODO только туда записываеться выполненые дела.
+
+[Mediaservis](https://github.com/odnashestaia/mediaservis)
+Проект предоставляет из себя сайт для просмотра видео на локальном сервере создание плейлистов для группировки видео.
 
 ## Контакты
 
