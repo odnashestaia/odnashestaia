@@ -49,7 +49,7 @@
 
 ## Контакты
 
-- **Email**: [odna_shestaia@mail.ru](mailto:odna_shestaia@mail.ru)
+- **Email**: [odna_shestaia@mail.ru](mailto:nikolay1979laptop@gmail.com)
 - **Telegram**: [ODNA_SHESTAYA](https://t.me/ODNA_SHESTAYA)
 
 
